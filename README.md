@@ -11,4 +11,4 @@ Various algorithms and code examples from Bice.
 ### http://code-examples.bice.rocks
 
 ## GitHub Repo:
-### https://github.com/certifiedbice/portfolio/
+### https://github.com/certifiedbice/code-examples/
