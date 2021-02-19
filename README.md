@@ -1,4 +1,4 @@
-# Bice.rocks-Code Examples
+# Code-Examples.Bice.rocks
 
 # About the project
 
@@ -11,4 +11,4 @@ Various algorithms and code examples from Bice.
 ### http://code-examples.bice.rocks
 
 ## GitHub Repo:
-### https://github.com/certifiedbice/code-examples/
+### https://github.com/certifiedbice/Code-examples/
